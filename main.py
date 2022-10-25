@@ -4,7 +4,7 @@ def fetch_random_dad_joke() -> str:
     """
     Fetch a random dad joke. 
     
-    This was created inside the development branch
+    This was created inside the development branch.
     """
     req = Request(
         url="https://icanhazdadjoke.com/",
